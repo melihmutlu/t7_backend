@@ -10,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.4",
     "mongodb": "^2.1.7"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melihmutlu/t7_backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/melihmutlu/t7_backend/issues"
+  },
+  "homepage": "https://github.com/melihmutlu/t7_backend#readme"
 }
